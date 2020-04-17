@@ -1,0 +1,33 @@
+.container {
+    padding: 50px;
+}
+
+input {
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 18px;
+    margin: 10px;
+    background: transparent;
+    border: #ffffff 1px solid;
+    color: white;
+}
+
+button {
+    margin-top: 50px;
+    background: crimson;
+    color: white;
+    border: none;
+    width: 100px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+
+.card {
+    padding: 15px;
+    border-radius: 10px !important;
+    background-color: transparent !important;
+    border: #ffffff 2px solid !important;
+    color: #ffffff;
+}
